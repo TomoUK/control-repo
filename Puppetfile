@@ -22,3 +22,7 @@ mod 'apache',
 mod 'vim',
   :git => 'https://github.com/TomoUK/vim.git',
   :ref => '1.4.1'
+
+mod 'make',
+  :git => 'git@github.com:TomoUK/make.git',
+  "ref => '999.999.999'
