@@ -25,4 +25,4 @@ mod 'vim',
 
 mod 'make',
   :git => 'git@github.com:TomoUK/make.git',
-  "ref => '999.999.999'
+  :ref => '999.999.999'
