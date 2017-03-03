@@ -18,3 +18,7 @@ forge "http://forge.puppetlabs.com"
 mod 'apache',
   :git => 'git@github.com:TomoUK/apache.git',
   :ref => '1.11.0'
+
+mod 'vim',
+  :git => 'https://github.com/TomoUK/vim.git',
+  :ref => '1.4.1'
