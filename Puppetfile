@@ -27,5 +27,4 @@ mod 'make',
   :git => 'git@github.com:TomoUK/make.git',
   :ref => '999.999.999'
 
-mod 'puppetlabs-apache'
 mod 'puppetlabs/apache'
