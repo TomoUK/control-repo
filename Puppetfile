@@ -17,7 +17,7 @@ forge "http://forge.puppetlabs.com"
 #  :branch => 'docs_experiment'
 mod 'test',
   :git => 'git@github.com:TomoUK/test.git',
-  :ref => '0.1.0'
+  :ref => '1.0.0'
 
 mod 'apache',
   :git => 'git@github.com:TomoUK/apache.git',
